@@ -11,7 +11,7 @@ DNS-Menu – Dein DNS-Wechsel-Tool für Windows
 
 ## 🔧 Installation
 1. Lade die ZIP-Datei herunter:
-   [Download hier](https://github.com/iceliveone/DNS-Menu/releases/download/v1.0.0/DNS-Menu.zip)
+   [Download hier](https://github.com/iceliveone/DNS-Menu/DNS-Menu.zip)
 2. Entpacke den Ordner.
 3. Starte `DNS-Launcher.bat` (Hybrid-Start).
 
