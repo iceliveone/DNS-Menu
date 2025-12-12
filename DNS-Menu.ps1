@@ -45,7 +45,7 @@ function Set-DNS {
 }
 
 function Update-Script {
-    $url = "https://github.com/iceliveone/DNS-Menu/releases/download/v1.0.0/DNS-Menu.ps1"
+    $url = "https://github.com/iceliveone/DNS-Menu/DNS-Menu.ps1"
     Invoke-WebRequest -Uri $url -OutFile "$PSScriptRoot\DNS-Menu.ps1"
     Log-Action "Update von GitHub durchgeführt"
     Write-Host "Update abgeschlossen!"
